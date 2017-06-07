@@ -1,0 +1,28 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "6365a517d96185463da44e838b292083a1372141", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 30.0, 
+    "extract_units": "watts", 
+    "extract_value": 4.0, 
+    "pattern": "diamond_37hole_3mmbeam.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "13", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "TWmyTgAAAAAAv+k9AAD6RGh4B0AAAPpESNSDQAAA+kS30cNAAAD6RD7tAUEAAPpEPuwhQQAA+kQP/UFBAAD6RDAcYkEAAPpEJxSBQQAA+kSpGZFBAAD6RCQpoUEAAPpEDCuxQQAA+kQWKsFBAAD6RFwx0UEAAPpEoELhQQAA+kRFRfFBAAD6RG6qAEIAAPpEK60IQgAA+kQvtRBCAAD6RFTBGEIAAPpEl8kgQgAA+kRayyhCAAD6RA==", 
+    "response": "TWmyTgAAAAAAv+k9PCumQWh4B0AAAAAASNSDQAAAAAC30cNAZbyvQT7tAUFlvK9BPuwhQWW8r0EP/UFBZbyvQTAcYkFlvK9BJxSBQWW8r0GpGZFBZbyvQSQpoUFlvK9BDCuxQWW8r0EWKsFBZbyvQVwx0UFlvK9BoELhQWW8r0FFRfFBZbyvQW6qAEJlvK9BK60IQmW8r0EvtRBCZbyvQVTBGEJlvK9Bl8kgQmW8r0FayyhCZbyvQQ==", 
+    "sblob": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 9.63
+}
