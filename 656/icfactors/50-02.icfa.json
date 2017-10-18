@@ -6,7 +6,7 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 0.0028819816483070734, 
+        "error": 0.003781937450038987, 
         "fit": "Bracketing Interpolate", 
         "references": [
             {
@@ -68,9 +68,14 @@
                 "exclude": "ok", 
                 "record_id": "a-01-J-5583", 
                 "uuid": "d2b25024-0a1c-4e1f-824b-dc8affe07317"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-5584", 
+                "uuid": "fcd7b9ab-f5e1-4254-b894-0994e4a76c33"
             }
         ], 
-        "value": 0.9984916186760833
+        "value": 1.0000220327879679
     }, 
     "H1": {
         "error": 1e-20, 
