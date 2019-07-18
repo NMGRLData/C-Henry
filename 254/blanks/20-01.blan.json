@@ -58,8 +58,8 @@
         "value": 0.004444947066727183
     },
     "Ar37": {
-        "error": 0.0007851482949912504,
-        "fit": "Average",
+        "error": 0.000785148296163519,
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -112,11 +112,12 @@
                 "uuid": "35e9c241-6bc1-4ca1-b26e-dbe219b77659"
             }
         ],
-        "value": 0.0625874569529649
+        "reviewed": true,
+        "value": 0.06260722413856795
     },
     "Ar38": {
-        "error": 0.0022045537393998635,
-        "fit": "Average",
+        "error": 0.006730640986414112,
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -169,11 +170,12 @@
                 "uuid": "35e9c241-6bc1-4ca1-b26e-dbe219b77659"
             }
         ],
-        "value": 0.014424124158626938
+        "reviewed": true,
+        "value": 0.01414726519602482
     },
     "Ar39": {
-        "error": 0.0059226048410149935,
-        "fit": "Average",
+        "error": 0.012101496236148132,
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -226,7 +228,8 @@
                 "uuid": "35e9c241-6bc1-4ca1-b26e-dbe219b77659"
             }
         ],
-        "value": 0.026411129459783512
+        "reviewed": true,
+        "value": 0.02630269290085601
     },
     "Ar40": {
         "error": 0.06091999151321013,
